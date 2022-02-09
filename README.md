@@ -7,8 +7,8 @@ Thought analysis against a community (ahmadiyya community in Indonesia) in the s
 + ...
 
 ## Resources
-**Python** version 3.9
-**Packages:** Pandas, Selenium
+**Python** version 3.9 \
+**Packages:** Pandas, Selenium \
 **Twitter Scraper Github:** https://github.com/iddzzz/twitter-scraper
 
 ## Web Scraping
