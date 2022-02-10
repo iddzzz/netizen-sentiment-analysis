@@ -26,7 +26,7 @@ Scraped 15000+ tweets from twitter.com. With detail of:
 ## Data Cleaning
 Cleaned data for further analysis. I did the following tasks:
 + Removed advertisements
-+ Filled null values for name and username
++ Imputed null values
 
 ## Exploratory Data Analysis
 
