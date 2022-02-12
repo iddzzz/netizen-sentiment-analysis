@@ -8,7 +8,7 @@ Thought analysis against a community (ahmadiyya community in Indonesia) in the s
 
 ## Resources
 **Python** version 3.9 \
-**Packages:** Pandas, Selenium, langdetect, matplotlib \
+**Packages:** pandas, selenium, langdetect, matplotlib, seaborn, json, tqdm \
 **Twitter Scraper Github:** https://github.com/iddzzz/twitter-scraper \
 **Indonesian Stopwords:** https://github.com/stopwords-iso/stopwords-id
 
@@ -35,5 +35,6 @@ Cleaned data for further analysis. I did the following tasks:
 ## Exploratory Data Analysis
 
 ## Model Building
++ Optimized clustering model pipeline of KMeans and Non-negative Matrix Factorization (NMF)
 
 ## Model Performance
