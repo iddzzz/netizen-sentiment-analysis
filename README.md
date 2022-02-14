@@ -3,8 +3,8 @@ Thought analysis against a community (ahmadiyya community in Indonesia) in the s
 
 ## Project Overview
 + Analysing public opinion about the community to help the community prepare and improve future programs
-+ Scraped 20k+ social media post samples from twitter using python and selenium
-+ Extracted insights about the topics, sentiment, and tweets distribution throughout the year.
++ Scraped 15k+ social media post samples from twitter using python and selenium
++ Extracted insights about the topics, sentiment, and tweets distribution throughout the year
 
 ## Resources
 **Python** version 3.9 \
