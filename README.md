@@ -1,5 +1,5 @@
 # Netizen Thought Analysis
-Thought analysis against a community (ahmadiyya community in Indonesia) in the social media in 2021.
+Thought analysis against a community (ahmadiyya community in Indonesia) in the social media (twitter) in 2021.
 
 ## Project Overview
 + Analysing public opinion about the community to help the community prepare and improve future programs
@@ -34,9 +34,31 @@ Cleaned data for further analysis. I did the following tasks:
 
 ## Exploratory Data Analysis
 
-### Tweets for one year
+### Top 10 Users by Number of Tweets
 
-## Model Building
-+ Optimized clustering model pipeline of Non-negative Matrix Factorization (NMF) and KMeans.
+|    | initial   |   tweet |   reply |   retweet |   like |
+|---:|:----------|--------:|--------:|----------:|-------:|
+|  0 | Mur       |     828 |     668 |        86 |    124 |
+|  1 | Ded       |     318 |      82 |       271 |    791 |
+|  2 | bil       |     298 |       0 |         0 |      0 |
+|  3 | Ahm       |     214 |     187 |      2453 |   2615 |
+|  4 | Ima       |      99 |      30 |        50 |    124 |
+|  5 | IG:       |      81 |       1 |         1 |     25 |
+|  6 | نان       |      63 |      28 |        27 |     51 |
+|  7 | Nas       |      55 |      24 |        75 |    183 |
+|  8 | Aph       |      54 |       9 |         3 |     12 |
+|  9 | iLb       |      54 |      49 |         2 |      6 |
 
-## Results
+The top 10 users normally attract other netizens to interact, except for 'bil' and 'IG:', which might be buzzer account.
+
+### Tweets over the year
+
+![](tweet-distribution.png)
+
+There are 4 months with significant number of tweets, especially September 2021. They correspond to the occurences: Sintang incident (Sep).
+
+## Clustering Result
+
+### Topic Categories
+
+Coming soon ...
