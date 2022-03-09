@@ -34,6 +34,13 @@ Cleaned data for further analysis. I did the following tasks:
 
 ## Exploratory Data Analysis
 
+### Users Characteristics
+
+![](users.png)
+
++ Few users seem to be buzzer accounts: users with high number of tweets, but low number of retweets, likes and replies (samples on the middle part with dark color and small circle)
++ There are infuencers posted a few tweets: users with low number of tweets, but high number of retweets, likes and replies (samples on the top-left part with bright color and big circle)
+
 ### Top 10 Users by Number of Tweets
 
 |    | initial   |   tweet |   reply |   retweet |   like |
